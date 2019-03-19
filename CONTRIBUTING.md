@@ -1,4 +1,4 @@
 comentario original
 segundo comentario
 tercer comentario. comentario adicional
-cuarto comentario
+cuarto comentario. comentario adicional
